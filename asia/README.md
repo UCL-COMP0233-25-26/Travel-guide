@@ -1,2 +1,2 @@
 # ASIA
-[Japan](japan.md)
+[Japan](japan/)
