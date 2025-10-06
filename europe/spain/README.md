@@ -1,3 +1,3 @@
 # Spain
 
-[LANZAROTE](./Lanzarote.md)
+[LANZAROTE](./Lanzarote/Lanzarote.md)
