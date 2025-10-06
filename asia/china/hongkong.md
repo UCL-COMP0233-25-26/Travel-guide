@@ -1,0 +1,2 @@
+#I want to see what the hype is about it, and explore the technological advancements they have there. Love the food, love the people, all that's left is a visit. Me and my brother finna pull up and see wag1.
+https://en.wikipedia.org/wiki/Hong_Kong
