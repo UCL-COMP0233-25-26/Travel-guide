@@ -1,0 +1,3 @@
+# Japan
+- [Kyoto](kyoto.md)
+
