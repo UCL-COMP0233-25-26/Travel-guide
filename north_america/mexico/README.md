@@ -1,3 +1,3 @@
 # Mexico
 
-* [base](./yucatan_peninsula.md)
+* [Yucatan Peninsula](./yucatan_peninsula.md)

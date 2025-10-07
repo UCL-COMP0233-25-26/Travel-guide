@@ -1,3 +1,3 @@
 # NORTH_AMERICA
 
-* [base](./mexico/README.md)
+* [Mexico](./mexico/README.md)
