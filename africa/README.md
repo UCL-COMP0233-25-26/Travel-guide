@@ -1,3 +1,3 @@
 # AFRICA
 
- - [Nigeria](./nigeria/lagos.md)
+ - [Nigeria](./nigeria/README.md)
