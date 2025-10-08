@@ -1,3 +1,3 @@
 # AFRICA
 
- - [LAGOS](./africa/nigeria/lagos.md)
+ - [LAGOS](./nigeria/lagos.md)
