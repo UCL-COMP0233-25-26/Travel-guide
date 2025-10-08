@@ -1,3 +1,3 @@
-#Lagos
+# Lagos
 
-[Lagos](./lagos.md)
+- [Lagos](./lagos.md)
