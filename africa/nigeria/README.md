@@ -1,3 +1,3 @@
-# Lagos
+# Nigeria
 
 - [Lagos](./lagos.md)
