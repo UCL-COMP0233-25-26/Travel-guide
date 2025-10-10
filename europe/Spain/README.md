@@ -3,5 +3,5 @@
 Welcome to the Spain section of our Travel Guide!
 
 Explore the following cities:
-- [Malaga](Spain/malaga.md)
+- [Malaga](malaga.md)
 - More cities coming soon...
