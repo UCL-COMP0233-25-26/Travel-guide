@@ -1,2 +1,2 @@
 # ASIA
-China [Go to China](./china.md)
+[China](./china/china.md)
