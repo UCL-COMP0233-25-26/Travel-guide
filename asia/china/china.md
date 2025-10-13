@@ -1,6 +1,5 @@
-# ASIA
+## Continent
+ - [ASIA](./asia/README.md)
 
-## Countries
-- [China](./asia/china.md)
 ## Cities
 - [Hong Kong](./asia/china/hongkong.md)
