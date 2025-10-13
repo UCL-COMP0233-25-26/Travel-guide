@@ -1,5 +1,3 @@
-
-
 # The ultimate travel guide
  - [AFRICA](./africa/README.md)
  - [ASIA](./asia/README.md)
