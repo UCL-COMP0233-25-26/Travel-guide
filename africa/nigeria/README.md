@@ -1,0 +1,3 @@
+# Nigeria
+
+- [Lagos](./lagos.md)
