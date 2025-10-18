@@ -1,3 +1,2 @@
 # Japan
-## Destination
-- [Osaka](osaka/osaka.md)
+ - [Osaka](./osaka.md)

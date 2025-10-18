@@ -1,3 +1,2 @@
 # ASIA
-## JAPAN
-[More about Japan](japan/README.md)
+ - [Japan](./japan/README.md)
